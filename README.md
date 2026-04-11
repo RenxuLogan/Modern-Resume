@@ -10,7 +10,9 @@
 
 ## 📸 预览 (Preview)
 
-![简历预览图](image.png) 
+<p align="center">
+  <img src="image.png" alt="简历预览图" width="450px" style="max-width: 100%;">
+</p>
 
 ---
 
