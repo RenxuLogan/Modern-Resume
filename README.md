@@ -11,7 +11,7 @@
 ## 📸 预览 (Preview)
 
 <p align="center">
-  <img src="image.png" alt="简历预览图" width="450px" style="max-width: 100%;">
+  <img src="image.png" alt="简历预览图" width="550px" style="max-width: 100%;">
 </p>
 
 ---
@@ -94,4 +94,4 @@ xelatex main.tex
 
 ## 🤝 贡献与反馈
 
-如果你喜欢这个模版，欢迎点个 **Star** ⭐！如果你有更好的排版改进建议，欢迎提交 Pull Request 或通过 [Issues] 反馈。
+如果你喜欢这个模版，欢迎点个 **Star** ⭐！如果你有更好的排版改进建议，欢迎提交 Pull Request 或通过 [Issues](https://github.com/RenxuLogan/Modern-Resume/issues) 反馈。
