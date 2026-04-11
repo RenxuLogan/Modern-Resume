@@ -1,4 +1,4 @@
-# 🚀 Modern Academic & Research CV Template (TikZ Style)
+# 🚀 Modern Academic & Research CV Template 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![LaTeX-XeLaTeX-Compatible](https://img.shields.io/badge/LaTeX-XeLaTeX-green.svg)](https://www.overleaf.com/)
